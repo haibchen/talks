@@ -62,22 +62,14 @@ ever.
 ### Contents
 
 * [On Programming Languages](#on-programming-languages)
-    * [Alpaca](#alpaca)
-    * [APL](#apl)
-    * [Assembly](#assembly)
     * [Bash](#bash)
     * [C](#c)
     * [Clojure](#clojure)
     * [C++](#c-1)
     * [Crystal](#crystal)
-    * [CSS](#css)
-    * [D](#d)
     * [Elixir](#elixir)
     * [Elm](#elm)
     * [Erlang](#erlang)
-    * [F#](#f)
-    * [Factor](#factor)
-    * [Frege](#frege)
     * [Go](#go)
     * [Hackett](#hackett)
     * [Haskell](#haskell)
@@ -86,20 +78,10 @@ ever.
     * [JavaScript](#javascript)
     * [Julia](#julia)
     * [Lisp](#lisp)
-    * [Objective C](#objective-c)
-    * [OCaml](#ocaml)
-    * [Prolog](#prolog)
-    * [PureScript](#purescript)
     * [Python](#python)
-    * [Racket](#racket)
-    * [Ruby](#ruby)
     * [Rust](#rust)
     * [Scala](#scala)
-    * [Scheme](#scheme)
-    * [Swift](#swift)
-    * [Unison](#unison)
-    * [VimL](#viml)
-    * [Wolfram Language](#wolfram-language)
+
 * [On theory](#on-theory)
     * [Compilers/Interpreters](#compilersinterpreters)
     * [Computer Graphics and Vision](#computer-graphics-and-vision)
@@ -121,8 +103,6 @@ ever.
     * [Operating Systems](#operating-systems)
     * [Performance Engineering](#performance-engineering)
     * [Programming Language Design](#programming-language-design)
-    * [Research](#research)
-    * [Robotics](#robotics)
     * [Security](#security)
     * [Software Development](#software-development)
     * [System Architecture](#system-architecture)
@@ -134,17 +114,6 @@ ever.
 * [Contributing](#contributing)
 
 ### On Programming Languages
-
-#### Alpaca
-* [Alpaca: Static Typing on the BEAM](https://www.youtube.com/watch?v=cljFpz_cv2E) [00:45:34] by **Jeremy Pierre** (2017)
-
-#### APL
-* [Patterns and Anti-patterns in APL: Escaping the Beginner's Plateau](https://www.youtube.com/watch?v=9xCJ3BCIudI) [00:59:02] by **Aaron Hsu** (2017)
-* [50 Years of APL Datatypes: From Booleans to Hypercomplex Numbers](https://www.youtube.com/watch?v=l3QdKqskcBM) [00:39:21] by **Bob Smith** (2016)
-
-#### Assembly
-* [Enough x86 Assembly to Be Dangerous](https://www.youtube.com/watch?v=IfUPkUAEwrk) [00:30:58] by **Charles Bailey** (2017)
-* [The Teensy ELF Executable](https://www.muppetlabs.com/~breadbox/software/tiny/techtalk.html) [00:49:03] by **Brian Raiter** (2014)
 
 #### Bash
 * [The Functional Tao of Bash](https://www.youtube.com/watch?v=yD2ekOEP9sU) [00:48:12] by **Garrett Smith** (2015)
