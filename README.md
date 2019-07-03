@@ -102,7 +102,6 @@ ever.
     * [Operating Systems](#operating-systems)
     * [Performance Engineering](#performance-engineering)
     * [Programming Language Design](#programming-language-design)
-    * [Security](#security)
     * [Software Development](#software-development)
     * [System Architecture](#system-architecture)
     * [Theoretical Computer Science](#theoretical-computer-science)
@@ -393,7 +392,7 @@ ever.
 * [A History of Haskell: being lazy with class](https://www.youtube.com/watch?v=06x8Wf2r2Mc) [00:56:46] by **Simon Peyton Jones** (2007)
 
 
-#### Java & Android
+#### Java 
 * [g ∘ f patterns](https://www.youtube.com/watch?v=lZG74WbnhoE) [00:50:44] by **Mario Fusco** (2017)
 * [Parallel and Asynchronous Programming with Streams and CompletableFuture](https://www.youtube.com/watch?v=IwJ-SCfXoAU) [02:34:29] by **Venkat Subramaniam** (2017)
 * [A JVM does that???](https://www.youtube.com/watch?v=-vizTDSz8NU) [00:51:58] by **Cliff Click** (2016)
@@ -492,11 +491,6 @@ ever.
 * [The Most Beautiful Program Ever Written](https://www.youtube.com/watch?v=OyfBQmvr2Hc) [01:31:05] by **William Byrd** (2017)
 * [Lisp](https://www.youtube.com/watch?v=FRaNUsiD_BA) [00:56:00] by **Igor Wiedler** (2014)
 * [Practical Common Lisp](https://www.youtube.com/watch?v=4NO83wZVT0A) [01:12:04] by **Peter Seibel** (2012)
-
-
-#### OCaml
-* [Why OCaml](https://www.youtube.com/watch?v=v1CmGbOGb2I) [01::06:39] by **Yaron Minsky** (2016)
-* [Caml Trading](https://www.youtube.com/watch?v=hKcOkWzj0_s) [01:12:43] by **Yaron Minsky** (2012)
 
 
 
@@ -849,17 +843,6 @@ ever.
 * [A Dinosaur's Thoughts on Programming Language Evolution](https://www.youtube.com/watch?v=Z9OYc1YYLT4) [00:48:47] by **Matthew Flatt** (2013)
 * [Rust and Other Interesting Things](https://www.youtube.com/watch?v=2wZ1pCpJUIM) [00:37:06] by **Bryan Cantrill** (2018)
 
-
-#### Security
-* [You're Probably Not Red Teaming... And Usually I’m Not, Either](https://www.youtube.com/watch?v=mj2iSdBw4-0) [00:43:43] by **Deviant Ollam** (2018)
-* [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) [00:50:59] by **Christopher Domas** (2018)
-* [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models](https://www.youtube.com/watch?v=ajGX7odA87k) [00:51:21] by **James Mickens** (2018)
-* [Exploit Kit Cornucopia](https://www.youtube.com/watch?v=s6_faEjf4AQ) [00:45:08] by **Brad Antoniewicz & Matt Foley** (2017)
-* [Breaking The x86 Instruction Set](https://www.youtube.com/watch?v=KrksBdWcZgQ) [00:44:28] by **Christoper Domas** (2017)
-* [The Search for the Perfect Door](https://www.youtube.com/watch?v=4YYvBLAF4T8) [00:50:49] by **Deviant Ollam** (2016)
-* [Boot strapping slightly more secure systems](https://media.ccc.de/v/33c3-8314-bootstraping_a_slightly_more_secure_laptop/oembed) [00:47:43] by **Trammell Hudson** (2016)
-* [Repsych: Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc) [00:38:48] by **Chris Domas** (2015)
-* [Pulling Back the Curtain on Airport Security: Can a Weapon Get Past TSA](https://www.youtube.com/watch?v=hbqVNlwfjxo) [00:31:52] by **Billy Rios** (2014)
 
 #### Software Development
 * [OOP Is Dead, Long Live Data-oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU) [01:00:45] by **Stoyan Nikolov** (2018)
