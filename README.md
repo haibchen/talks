@@ -62,7 +62,6 @@ ever.
 ### Contents
 
 * [On Programming Languages](#on-programming-languages)
-    * [Bash](#bash)
     * [C](#c)
     * [Clojure](#clojure)
     * [C++](#c-1)
@@ -113,8 +112,6 @@ ever.
 
 ### On Programming Languages
 
-#### Bash
-* [The Functional Tao of Bash](https://www.youtube.com/watch?v=yD2ekOEP9sU) [00:48:12] by **Garrett Smith** (2015)
 
 #### C
 * [Advanced C Coding For Fun!](https://www.youtube.com/watch?v=BEQ3sRakIs0) [00:46:53] by **Rusty Russell** (2014)
