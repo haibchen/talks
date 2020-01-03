@@ -31,9 +31,6 @@ and building programming languages. Even if you don't, Rich Hickeys talks are in
 and thought-provoking. Whenever he talks about the fundamentals of programming and reasoning,
 you are sure to learn a ton. Oh, and if you program in Clojure, you have no excuse for
 not watching this guy speak.
-* **Reginald Braithwaite** (JavaScript): one of my favourite JavaScript speakers. He
-also has a variety of talks on my list, but is more true to his realm (JavaScript) than
-most of the other speakers on my list.
 * **David Nolen** (Clojure/Clojurescript): The core maintainer of Clojurescript. His talks
 mostly focus on immutability and share a bit of their structure. He doesn't get boring, though,
 and is another very smart person with deep insights in such fields as immutability.
@@ -47,8 +44,6 @@ of his talks are also very beginner-friendly.
 and his way of talking is *just enjoyable* - you might think that is secondary, but it is really
 important. His talk on Tolkien is one of the most enjoyable diversions on this list (and a bit off-topic,
 mind you).
-* **Aaron Patterson** (Ruby): Probably the most entertaining speaker on the list. As a core
-developer of both Ruby and Rails, he works close to the heart of the Ruby community.
 * **Philip Wadler** (Haskell, Theory, ...): Incredibly knowledgeable gentleman. If you use generics
 in Java, you owe that to him. If you use Haskell and/or monads, you probably already know him,
 but in case you do not, try to change that fact. He makes theoretical computer science more
