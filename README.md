@@ -967,22 +967,3 @@ ever.
 * [It's not what you read, it's what you ignore](https://www.youtube.com/watch?v=IWPgUn8tL8s) [01:01:52] by **Scott Hanselman** (2012)
 * [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt** (2012)
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds** (2007) [A]
-
-## Contributing
-
-Generally, a lot of talks are welcome on this list. The topic does not matter too much - it
-should be linked to Computer Science - but the format does. Talks are welcome if
-* they were recorded at a conference or meetup (i.e. no screencasts or vlogging)
-* they are awesome™!
-
-I hope that is straightforward, understandable and makes sense.
-
-When adding a new section/subsection or entry, please try to ensure it's sorted accordingly:
-
-* The two top-level sections (Languages and Theory) have their subsection headings organised alphabetically (`APL` > `VimL`).
-
-* The Languages subsections are sorted ascending by year (last field), then alphabetically by title. For example, an entry with `(2012)` should be below one with `(2017)` regardless of title; entries from the same year are then alphabetised within each year-group.
-  * Groups of years are separated from one another by `<br>\n` (`<br>` followed by an empty line), except if a group would contain only a few (<= 3) talks and it is near another small group, in which case small adjacent year-groups are consolidated. An entry or two might also be included in an adjacent larger year-group iff the entries have different years.
-
-* The Theory subsections are sorted only ascendingly by year, with no attention to title, and no grouping by year.
-  * It doesn't matter where in a group of same-year-talks a specific (added) talk goes.
