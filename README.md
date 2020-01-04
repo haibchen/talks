@@ -99,7 +99,6 @@ ever.
 * [Core.Async in Use](https://www.youtube.com/watch?v=096pIlA3GDo) [00:34:04] by **Timothy Baldridge** (2017)
 * [Bare Metal Clojure with clojure.spec](https://www.youtube.com/watch?v=yGko70hIEwk) [00:36:07] by **Michael Reitzenstein** (2016)
 * [Clarifying Rules Engines with Clara Rules](https://www.youtube.com/watch?v=Q_k5MkZmd-o) [00:37:07] by **Mike Rodriguez** (2016)
-* [Clojure at DataStax: The Long Road From Python to Clojure](https://www.youtube.com/watch?v=wfrajaEyNX0) [00:29:28] by **Nick Bailey** (2016)
 * [Composing music with clojure.spec](https://www.youtube.com/watch?v=404UXttr8kw) [00:46:30] by **Wojciech Franke** (2016)
 * [Creating DSLs - A tale of spec tacular success and failure](https://www.youtube.com/watch?v=cO67QNn9hPY) [00:39:46] by **Claire Alvis** (2016)
 * [Full stack FP in Datomic, Clojure, and ClojureScript](https://www.youtube.com/watch?v=FjUKmTIHyXo) [00:51:30] by **Priyatam Mudivarti** (2016)
