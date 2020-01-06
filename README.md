@@ -194,6 +194,7 @@ ever.
 * [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0) [00:49:42] by **Dave Thomas** (2014)
 * [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) [00:55:47] by **Dave Thomas** (2014)
 
+
 #### Erlang
 * [A Peek Inside Erlang's OTP](https://www.youtube.com/watch?v=PkHZPTn1brc) [00:50:19] by **Steve Vinovski** (2016)
 * [Erlang and Deep Learning](https://www.youtube.com/watch?v=iMhBEVCgPdg) [00:47:15] by **Garrett Smith** (2016)
@@ -320,7 +321,6 @@ ever.
 * [The Most Beautiful Program Ever Written](https://www.youtube.com/watch?v=OyfBQmvr2Hc) [01:31:05] by **William Byrd** (2017)
 * [Lisp](https://www.youtube.com/watch?v=FRaNUsiD_BA) [00:56:00] by **Igor Wiedler** (2014)
 * [Practical Common Lisp](https://www.youtube.com/watch?v=4NO83wZVT0A) [01:12:04] by **Peter Seibel** (2012)
-
 
 
 #### Python
@@ -478,6 +478,7 @@ ever.
 * [Persistent Data Structures for Special Occasions](https://www.youtube.com/watch?v=Z_iLjL0mc4I) [00:44:44] by **Michał Marczyk** (2014)
 * [Visualizing Persistent Data Structures](https://www.youtube.com/watch?v=2XH_q494U3U) [00:37:24] by **Dann Toliver** (2014)
 
+
 #### Debugging
 * [Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8) [00:30:05] by **Hillel Wayne** (2017)
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway** (2015)
@@ -492,11 +493,13 @@ ever.
 * [K things I know about building Resilient Reactive Systems](https://www.youtube.com/watch?v=rQIE22e0cW8) [01:00:02] by **Joe Armstrong** (2014)
 * [The How and Why of Fitting Things Together](https://www.youtube.com/watch?v=ed7A7r6DBsM) [00:46:39] by **Joe Armstrong** (2013)
 
+
 #### Entrepreneurship
 * [How and Why to Start A Startup](https://www.startupschool.org/videos/1) [00:44:42] by **Sam Altman & Dustin Moskovitz** (2017)
 * [How to Build a Product (Part IV)](https://www.startupschool.org/videos/8) [00:51:24] by **Jan Koum** (2017)
 * [Barely succeed! It’s easier!](https://www.youtube.com/watch?v=5Vt8zqhHe_c) [00:39:22] by **Maciej Cegłowski** (2013)
 * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) [01:16:21] by **Randy Pausch** (2007)
+
 
 #### Functional Programming
 * [What FP can learn from Smalltalk](https://www.youtube.com/watch?v=baxtyeFVn3w) [00:43:36] by **Aditya Siram** (2018)
@@ -521,6 +524,7 @@ ever.
 * [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) [01:06:54] by **Phillip Wadler** (2012)
 * [Adventures in Functional Programming](https://vimeo.com/45140590) [00:50:34] by **Jim Weirich** (2012)
 * [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) [00:56:25] by **Conal Elliott** (2007)
+
 
 #### Hardware
 * [A Crash Course in Modern Hardware](https://www.youtube.com/watch?v=OFgxAFdxYAQ) [00:59:20] by **Cliff Click** (2016)
@@ -548,6 +552,7 @@ ever.
 * [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8) [00:50:23] by **Bryan O'Sullivan** (2013)
 * [Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U) [00:28:51] by **Scott Hanselman** (2012)
 * [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:01] by **Guy Steele** (2011)
+
 
 #### On the Industry/Community
 * [The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA) [00:47:15] by **Evan Czaplicki** (2018)
@@ -663,9 +668,9 @@ ever.
 * [Runtime scheduling: theory and reality](https://www.youtube.com/watch?v=8g9fG7cApbc) [00:42:11] by **Eben Freeman** (2016)
 * [The Power Of UNIX](https://www.youtube.com/watch?v=7uwW20odwEk) [00:30:03] by **Dan North** (2015)
 * [Speed & Scale: How to get there](https://www.youtube.com/watch?v=BeNrVl2_nyI) [01:04:51] by **Adrian Cockcroft** (2014)
-* [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert** (2014)
 * [Narcissistic Design](https://www.youtube.com/watch?v=LEZv-kQUSi4) [00:37:14] by **Stuart Halloway** (2013)
 * [Scalability at YouTube](https://youtu.be/G-lGCC4KKok?t=9m12s) [00:38:43] by **Mike Solomon** (long intro; starts at 9:12 minutes in) (2012)
+
 
 #### Theoretical Computer Science
 * [Category Theory for the Working Hacker](https://www.youtube.com/watch?v=V10hzjgoklA) [00:50:51] by **Philip Wadler** (2016)
@@ -674,6 +679,7 @@ ever.
 * [Turing and the Riemann zeta function](https://www.youtube.com/watch?v=pQS7X_8iTCA) [01:06:54] by **Andrew Odlyzko** (2012)
 * [Programming the Turing Machine](https://www.youtube.com/watch?v=ibRar7sWulM) [01:06:10] by **Barbara Liskov** (2012)
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) [01:03:41] by **Philip Wadler** (2012)
+
 
 #### Type Theory
 * [Type Theory and its Meaning Explanations](https://www.youtube.com/watch?v=xMAqniX2Paw) [00:52:23] by **Jon Sterling** (2015)
