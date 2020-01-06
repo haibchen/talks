@@ -425,12 +425,10 @@ ever.
 * [The Z Garbage Collector](https://www.youtube.com/watch?v=7cWiwu7kYkE) [00:37:13] by **Erik Österlund** (2018)
 * [Datafun: a functional query language](https://www.youtube.com/watch?v=gC295d3V9gE) [00:42:30] by **Michael Arntzenius** (2017)
 * [What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://www.youtube.com/watch?v=bSkpMdDe4g4) [01:15:45] by **Matt Godbolt** (2017)
-* [The Unison Language and its Scala-based Runtime](https://www.youtube.com/watch?v=knqlWboqf_U) [00:45:49] by **Paul Chiusano** (2017)
 * [Datafun: A Functional Datalog](https://www.youtube.com/watch?v=p_26-yTUlCU) [00:24:38] by **Michael Arntzenius** (2016)
 * [What I learned from LuaJIT](https://www.youtube.com/watch?v=EaLboOUG9VQ) [01:15:42] by **Vyacheslav Egorov** (2016)
 * [Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler](https://www.youtube.com/watch?v=KHa-OSrZPGo) [00:59:33] by **Justin Lebar** (2016)
 * [An Introduction to Combinator Compilers and Graph Reduction Machines](https://www.youtube.com/watch?v=GawiQQCn3bk) [00:39:30] by **David Graunke** (2016)
-* [Ruby and OMR: Experiments in utilizing OMR technologies in MRI](http://bofh.nikhef.nl/events/FOSDEM/2016/h2213/ruby-and-omr.mp4) [00:45:38] by **Charlie Gracie** (2016)
 * [So you want to write an interpreter?](https://www.youtube.com/watch?v=LCslqgM48D4) [00:40:38] by **Alex Gaynor** (2015)
 * [The movfuscator](https://youtu.be/2VF_wPkiBJY) [00:49:14] by **Christopher Domas** (2015)
 * [Understanding Compiler Optimizations](https://www.youtube.com/watch?v=FnGCDLhaxKU) [01:50:14] by **Chandler Carruth** (2015)
@@ -447,9 +445,7 @@ ever.
 * [The Java Virtual Machine is Over - The Polyglot VM is here](https://www.youtube.com/watch?v=OKJgMwTLmEY) [00:51:02] by **Marcus Lagergren** (2013)
 * [Implementing Domain Specific Languages with LLVM](https://www.youtube.com/watch?v=1Hwnagof1Wo) [00:50:59] by **David Chisnall** (2013)
 * [The Clang AST](https://www.youtube.com/watch?v=VqCkCDFLSsc) [00:44:53] by **Manuel Klimek** (2013)
-* [How the PyPy JIT works](https://www.youtube.com/watch?v=NIcijUt-HlE) [00:29:05] by **Benjamin Peterson** (2012)
 * [Intel OpenCL SDK Vectorizer](https://www.youtube.com/watch?v=QsoLyvvhRuc) [00:35:45] by **Natav Rotem** (2011)
-* [PTX Back-End: GPU Programming With LLVM](https://www.youtube.com/watch?v=Ux3F5MKuPjI) [00:39:34] by **Justin Holewinski** (2011)
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) [01:13:10] by **Matthew Might** (2011)
 
 
@@ -554,10 +550,7 @@ ever.
 * [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:01] by **Guy Steele** (2011)
 
 #### On the Industry/Community
-* [Shaping our children's education in computing](https://www.youtube.com/watch?v=y-xgWLYQc4g) [00:51:08] by **Simon Peyton Jones** (2018)
-* [Computing, Climate Change, and All of our Relationships](https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships) [00:40:33] by **Nabil Hassein** (2018)
 * [The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA) [00:47:15] by **Evan Czaplicki** (2018)
-* [Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk) [00:23:02] by **Tim Holman** (2018)
 * [Invited Talk](https://www.youtube.com/watch?v=dCuZkaaou0Q) [01:07:21] by **Guy Steele** (2017) (on notation) [A]
 * [Patterns Failed. Why? Should We Care?](https://www.deconstructconf.com/2017/brian-marick-patterns-failed-why-should-we-care) [00:26:40] by **Brian Marick** (2017)
 * [Code Review, Forwards and Back](https://www.youtube.com/watch?v=9qYR0NqsDcA) [00:22:33] by **Sumana Harihareswara & Jason Owen** (2017)
@@ -565,7 +558,6 @@ ever.
 * [Crossing the River by Feeling the Stones](https://www.youtube.com/watch?v=ek0aWj_rWYs) [00:55:30] by **Simon Wardley** (2017)
 * [Idée Fixe](https://www.youtube.com/watch?v=lzXHMy4ewtM) [00:39:36] by **David Nolen** (2017)
 * [Humanizing among coders](https://www.youtube.com/watch?v=npyB5Oz-v-I) [00:41:15] by **Ana Balica** (2016)
-* [extern c: Talking to C Programmers about C++](https://www.youtube.com/watch?v=D7Sd8A6_fYU) [01:36:26] by **Dan Saks** (2016)
 * [“Am I Senior Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin** (2016) [A]
 * [It's Simple](https://www.youtube.com/watch?v=a8Re9Cvv6nU) [00:37:35] by **Adrian Cockcroft** (2016)
 * [Software, Faster](https://www.youtube.com/watch?v=USc-yLHXNUg) [00:54:19] by **Dan North** (2016)
@@ -582,7 +574,6 @@ ever.
 #### Operating Systems
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans** (2014)
 * [Python, Linkers, and Virtual Memory](https://www.youtube.com/watch?v=twQKAoq2OPE) [00:31:15] by **Brandon Rhodes** (2012)
-* [The Origins of Linux](https://www.youtube.com/watch?v=WVTWCPoUt8w) [1:25:12] by **Linus Torvalds** (2001) [A]
 
 #### Performance Engineering
 * [Software Performance: A Shape Not a Number](https://www.youtube.com/watch?v=f7HCeE377-0) [00:31:59] by **Kay Ousterhout** (2018)
