@@ -77,7 +77,6 @@ ever.
     * [Functional Programming](#functional-programming)
     * [Hardware](#hardware)
     * [Machine Learning](#machine-learning)
-    * [Mathematics](#mathematics)
     * [On Languages](#on-languages)
     * [On the Industry/Community](#on-the-industrycommunity)
     * [Operating Systems](#operating-systems)
@@ -300,7 +299,6 @@ ever.
 
 * [4 JVM Web Frameworks in 40 Minutes](https://www.youtube.com/watch?v=nyz0AVIOTkI) [00:58:38] by **Joe Kutner** (this is actually for a few JVM languages, not only Java) (2015)
 * [A Few Ok Libraries](https://www.youtube.com/watch?v=WvyScM_S88c) [01:09:20] by **Jake Wharton** (2015)
-* [Fast as C: How to write really terrible Java](https://vimeo.com/131394615) [00:51:42] by **Charles Oliver Nutter** (2015)
 * [New Concurrency Models on the JVM: Fibres, Verticles, Agents and Actors](https://www.youtube.com/watch?v=EMv_8dxSqdE) [01:03:01] by **Lutz Hühnken** (2015)
 <br>
 
@@ -333,7 +331,6 @@ ever.
 
 * [Grok the GIL - Write Fast And Thread Safe Python](https://www.youtube.com/watch?v=7SSYhuk5hmc) [00:41:29] by **A. Jesse Jiryu Davis** (2017)
 * [The Dictionary Even Mightier](https://www.youtube.com/watch?v=66P5FMkWoVU) [00:47:21] by **Brandon Rhodes** (2017)
-* [The Python Visualization Landscape](https://www.youtube.com/watch?v=FytuB8nFHPQ) [00:33:30] by **Jake VanderPlas** (2017)
 * [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro) [01:52:02] by **James Powell** (2017)
 <br>
 
@@ -343,7 +340,6 @@ ever.
 * [Machete-mode debugging: Hacking your way out of a tight spot](https://www.youtube.com/watch?v=bAcfPzxB3dk) [00:35:13] by **Ned Batchelder** (2016)
 * [Python and Johnny Cash](https://www.youtube.com/watch?v=L3j2qw9XZCc) [00:43:15] by **James Powell** (2016)
 * [Removing Python's GIL: The Gilectomy](https://www.youtube.com/watch?v=P3AyI_u66Bw) [00:32:06] by **Larry Hastings** (2016)
-* [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA) [00:40:44] by **Jake Vanderplas** (2016)
 <br>
 
 * [Advanced Data Storage](https://www.youtube.com/watch?v=AXlp7qxqu8E) [01:19:39] by **Thomas Pfaff** (2015)
@@ -359,8 +355,6 @@ ever.
 * [Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0) [03:02:34] by **David Beazley** (2015)
 * [My Python's a little Rust-y](https://www.youtube.com/watch?v=3CwJ0MH-4MA) [00:29:18] by **Dan Callahan** (2015)
 * [Oh, Come On Who Needs Bytearrays](https://www.youtube.com/watch?v=z9Hmys8ojno) [00:44:24] by **Brandon Rhodes** (2015)
-* [Porting Python to run without an OS](https://www.youtube.com/watch?v=bYQ_lq5dcvM) [00:32:57] by **Josh Triplett** (2015)
-* [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=PiBfOFqDIAI) [00:30:13] by **Rian Kelly** (2015 version) (2015)
 * [Python Concurrency From the Ground Up: LIVE!](https://www.youtube.com/watch?v=MCs5OvhV9S4) [00:46:50] by **David Beazley** (2015)
 * [Serialization formats are not toys](https://www.youtube.com/watch?v=kjZHjvrAS74) [00:29:54] by **Tom Eastman** (2015)
 * [Side Effects are a Public API](https://www.youtube.com/watch?v=D37dc9EoFus) [00:38:26] by **Christopher Armstrong** (2015)
@@ -370,14 +364,11 @@ ever.
 <br>
 
 * [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond](https://www.youtube.com/watch?v=fYlnfvKVDoM) [00:37:40] by **Brandon Rhodes** (2014)
-* [Decorators: A Powerful Weapon in your Python Arsenal](https://www.youtube.com/watch?v=9oyr0mocZTg) [00:31:31] by **Colton Myers** (only about function decorators) (2014)
-* [Discovering Python](https://www.youtube.com/watch?v=RZ4Sn-Y7AP8) [00:47:50] by **David Beazley** (2014)
 * [Fast Python, Slow Python](https://www.youtube.com/watch?v=7eeEf_rAJds) [00:36:11] by **Alex Gaynor** (2014)
 * [Flask by Example](https://www.youtube.com/watch?v=FGrIyBDQLPg) [03:40:29] by **Miguel Grinberg** (2014)
 * [Generators: The Final Frontier](https://www.youtube.com/watch?v=D1twn9kLmYg) [03:50:55] by **David Beazley** (2014)
 * [Getting Hy on Python: How to implement a Lisp front-end to Python](https://www.youtube.com/watch?v=AmMaN1AokTI) [00:47:09] by **Paul Tagliamonte** (2014)
 * [Outlier Detection in Time Series Signals](https://www.youtube.com/watch?v=t4zEeujVht8) [00:36:30] by **Bugra Akyildiz** (2014)
-* [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=8C9q94F6Uqo) [00:25:38] by **Ryan Kelly** (2014 version) (2014)
 * [The Cython Compiler for Python](https://www.youtube.com/watch?v=ZHpkLX2VFMU) [00:48:01] by **Dr. Stefan Behnel** (2014)
 * [Up and Down the Python Data and Web Visualization Stack](https://www.youtube.com/watch?v=kmy-sfm3cC8) [00:39:18] by **Rob Story** (2014)
 <br>
@@ -393,9 +384,7 @@ ever.
 
 * [A Python Æsthetic: Beauty and Why I Python](https://www.youtube.com/watch?v=x-kB2o8sd5c) [00:46:56] by **Brandon Rhodes** (2012)
 * [Inside the Python GIL](https://www.youtube.com/watch?v=ph374fJqFPE) [01:01:03] by **David Beazley** (2012)
-* [pandas: Powerful data analysis tools for Python](https://www.youtube.com/watch?v=qbYYamU42Sw) [00:34:38] by **Wes McKinney** (2012)
 * [Python Epiphanies](https://www.youtube.com/watch?v=Pi9NpxAvYSs) [02:21:44] by **Stuart Williams** (PDF version/code can be found [here](http://swilliams.ca/Python-Epiphanies.pdf)) (2012)
-* [Python Metaprogramming for Mad Scientists and Evil Geniuses](https://www.youtube.com/watch?v=Adr_QuDZxuM) [00:37:13] by **Walker Hale** (2012)
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) [00:27:29] by **Jack Diederich** (2012)
 * [Understanding the Python GIL](https://www.youtube.com/watch?v=Obt-vMVdM8s) [00:46:10] by **David Beazley** (2012)
 <br>
@@ -504,7 +493,6 @@ ever.
 * [Coordination-Free Computations](https://www.youtube.com/watch?v=AF8fpDzfUOc) [00:46:15] by **Cristopher Meiklejohn** (really fast talker) (2015)
 * [Jepsen IV: Hope Springs Eternal](https://www.youtube.com/watch?v=dE3KT7hHkKY) [00:54:33] by **Kyle Kingsbury** (2015)
 * [Distributed Eventually Consistent Computations](https://www.youtube.com/watch?v=uwpakTIg9r8) [00:49:37] by **Christopher Meiklejohn** (2015)
-* [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh** (2015)
 * [K things I know about building Resilient Reactive Systems](https://www.youtube.com/watch?v=rQIE22e0cW8) [01:00:02] by **Joe Armstrong** (2014)
 * [The How and Why of Fitting Things Together](https://www.youtube.com/watch?v=ed7A7r6DBsM) [00:46:39] by **Joe Armstrong** (2013)
 
@@ -553,12 +541,6 @@ ever.
 * [The Unreasonable Effectiveness of Data](https://www.youtube.com/watch?v=yvDCzhbjYWs) [01:02:56] by **Peter Norvig** (2011)
 * [Automatic Algorithm Invention with a GPU](https://youtu.be/tQvFZVlM2Gk) [01:02:04] by **Wesley Faler** (2011)
 
-#### Mathematics
-*Those are not necessarily programming-related and possibly very advanced mathematics.*
-* [The Continuum Hypothesis and the search for Mathematical Infinity](https://youtu.be/nVF4N1Ix5WI) [00:55:18] by **W. Hugh Woodin** (2015)
-* [Field of Rationality and Category Theory](https://www.youtube.com/watch?v=jjfE2jTAQrE) [00:44:07] by **Michał Heller** (2015)
-* [Category Theory](https://www.youtube.com/watch?v=o6L6XeNdd_k) [01:36:54] by **Tom LaGatta** (2014)
-* [Constructive Type Theory and Homotopy](https://www.youtube.com/watch?v=4CghfgqnOGQ) by **Steve Awodey** (2010)
 
 #### On Languages
 * [On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling) [00:20:00] by **Evan Czaplicki** (2017)
@@ -604,6 +586,7 @@ ever.
 
 #### Performance Engineering
 * [Software Performance: A Shape Not a Number](https://www.youtube.com/watch?v=f7HCeE377-0) [00:31:59] by **Kay Ousterhout** (2018)
+* [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) [00:42:59] by **Gil Tene** (2015)
 * [Xi: an editor for the next 20 years](https://www.recurse.com/events/localhost-raph-levien) [00:53:20] by **Raph Levien** (2018)
 * [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson** (2015)
 
@@ -710,45 +693,29 @@ ever.
 * [Implementing and Using GraphQL at GitHub](https://www.youtube.com/watch?v=wPPFhcqGcvk) [00:38:55] by **Kyle Daigle & Dan Schafer** (2016)
 * [The Website Obesity Crisis](https://www.youtube.com/watch?v=iYpl0QVCr6U) [00:53:19] by **Maciej Ceglowski** (2015)
 * [Upgrading the Web](https://www.youtube.com/watch?v=6UTWAEJlhww) [00:41:19] by **Douglas Crockford** (2015)
-* [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) [00:42:59] by **Gil Tene** (2015)
 * [How I learned to Code by Making 180 websites in 180 days](https://www.youtube.com/watch?v=QaSbL4sRff8) [00:22:03] by **Jennifer De Walt** (2015)
 * [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) [00:22:06] by **David Nolen** (2014)
 * [Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc) [00:09:18] by **Jafar Husain** (very concise and dense) (2014)
 * [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw) [00:44:36] by **Tom Occhino, Jing Chen & Pete Hunt** (it starts pretty slow and marketingy, but gets much better over time) (2014)
 * [React: RESTful UI Rendering](https://www.youtube.com/watch?v=IVvHPPcl2TM) [00:36:15] by **Pete Hunt** (2014)
-* [Unlock the next era of UI development with Polymer](https://www.youtube.com/watch?v=HKrYfrAzqFA) [00:41:31] by **Rob Dodson** (2014)
 * [Parallax Performance](https://www.youtube.com/watch?v=R6TXuXV1bbY) [00:32:01] by **Paul Irish** (2014)
 * [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw) [00:23:25] by **Paul Irish** (2014)
-* [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) [00:25:57] by **Scott Hanselman** (2014)
 * [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) [00:32:07] by **James Mickens** (2014)
-* [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:28:44] by **Gary Bernhardt** (2014)
 * [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham** (2013)
-* [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) [00:29:32] by **Pete Hunt** (2013)
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) [00:27:26] by **Chris Williams** (2013)
 * [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) [00:21:40] by **Chris Williams** (2013)
 * [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** (2013)
 * [Go To There and Back Again](http://vimeo.com/78893726) [00:49:06] by **Douglas Crockford** (2013)
-* [HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) [01:04:20] by **Paul Irish** (2011)
 
 ### Miscellaneous
 * [I Don’t Have Time For This](https://www.deconstructconf.com/2017/aaron-patterson-i-dont-have-time-for-this) [00:31:22] by **Aaron Patterson** (2017)
-* [RailsConf 2017: Keynote](https://www.youtube.com/watch?v=GnCJO8Ax1qg) [00:50:31] by **Aaron Patterson** (2017)
-* [LIGO: The Dawn of Gravitational Wave Astronomy](https://www.youtube.com/watch?v=qSlwRwFsUOI) [00:56:17] by **Jameson Rollins** (2016)
 * [Juggling Patterns and Programs](https://www.youtube.com/watch?v=TqG176T69VM) [00:48:50] by **Steve Miner** (2016)
 * [African Polyphony & Polyrhythm](https://www.youtube.com/watch?v=EK4qctJOMaU) [00:41:49] by **Chris Ford** (2016)
 * [A Brief History of Time](https://www.youtube.com/watch?v=WoUn2XQvGDw) [00:45:17] by **Fred Hebert** (2016)
-* [Complexity and the Art of the Left Turn](https://www.youtube.com/watch?v=bSfe5M_zG2s) [00:52:05] by **K Lars Lohn** (2016)
-* [A Programmer’s Guide To Western Music](https://www.youtube.com/watch?v=xpSYWd_aIiI) [00:42:13] by **Andrew Sorensen** (2015)
-* [Kolmogorov music](https://www.youtube.com/watch?v=Qg3XOfioapI) [00:42:05] by **Cristopher Ford** (2015)
 * [Well I Wouldn't Want To Make a \*Dys\*functional Game](https://www.youtube.com/watch?v=TDDJsKLUh1Y) [00:18:17] by **Morgan Mullaney** (2015) [A]
 * [Stop Treading Water: Learning to Learn](https://www.youtube.com/watch?v=j0XmixCsWjs) [00:40:58] by **Edward Kmett** (2014)
-* [Madam Sandi Tells Your Future](https://www.youtube.com/watch?v=JOM5_V5jLAs) [00:38:13] by **Sandi Metz** (2014)
 * [Software Development Lessons from the Apollo Program](https://www.youtube.com/watch?v=hrsT9wmPVoo) [00:29:59] by **Julian Simioni** (2014)
 * [States and Nomads: Handling Software Complexity](https://www.youtube.com/watch?v=yP2ApYFtLu0) [00:23:31] by **Zach Tellman** (2014)
-* [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) [00:42:41] by **Brandon Rhodes** (2014)
-* [Linux Sucks - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) [00:44:59] by **Bryan Lunduke** (2014) [A]
-* [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) [00:52:43] by **Russ Olsen** (2013)
-* [DjangoCon EU 2013 Keynote](https://www.youtube.com/watch?v=yvMWUGx7Fx8) [00:31:10] by **Brandon Rhodes** (2013)
 * [It's not what you read, it's what you ignore](https://www.youtube.com/watch?v=IWPgUn8tL8s) [01:01:52] by **Scott Hanselman** (2012)
 * [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt** (2012)
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds** (2007) [A]
