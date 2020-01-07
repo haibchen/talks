@@ -576,7 +576,6 @@ ever.
 * [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) [01:07:26] by **Alan Kay** (2012)
 
 #### Operating Systems
-* [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans** (2014)
 * [Python, Linkers, and Virtual Memory](https://www.youtube.com/watch?v=twQKAoq2OPE) [00:31:15] by **Brandon Rhodes** (2012)
 
 #### Performance Engineering
@@ -667,20 +666,6 @@ ever.
 * [Speed & Scale: How to get there](https://www.youtube.com/watch?v=BeNrVl2_nyI) [01:04:51] by **Adrian Cockcroft** (2014)
 * [Narcissistic Design](https://www.youtube.com/watch?v=LEZv-kQUSi4) [00:37:14] by **Stuart Halloway** (2013)
 * [Scalability at YouTube](https://youtu.be/G-lGCC4KKok?t=9m12s) [00:38:43] by **Mike Solomon** (long intro; starts at 9:12 minutes in) (2012)
-
-
-#### Theoretical Computer Science
-* [Category Theory for the Working Hacker](https://www.youtube.com/watch?v=V10hzjgoklA) [00:50:51] by **Philip Wadler** (2016)
-* [Papers We Love: An Axiomatic Basis for Computer Programming](https://www.youtube.com/watch?v=GQi-6-d5ooQ) [01:04:32] by **Jean Yang** (2014)
-* [Lambda Calculus Then and Now](https://www.youtube.com/watch?v=SphBW9ILVPU) [00:30:08] by **Dana S. Scott** (2013)
-* [Turing and the Riemann zeta function](https://www.youtube.com/watch?v=pQS7X_8iTCA) [01:06:54] by **Andrew Odlyzko** (2012)
-* [Programming the Turing Machine](https://www.youtube.com/watch?v=ibRar7sWulM) [01:06:10] by **Barbara Liskov** (2012)
-* [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) [01:03:41] by **Philip Wadler** (2012)
-
-
-#### Type Theory
-* [Type Theory and its Meaning Explanations](https://www.youtube.com/watch?v=xMAqniX2Paw) [00:52:23] by **Jon Sterling** (2015)
-* [Papers We Love: On the Meanings of the Logical Constants and the Justifications of the Logical Laws](https://www.youtube.com/watch?v=xRUPr322COQ) [01:24:37] by **Joseph Abrahamson** (2014)
 
 
 #### Web Development
