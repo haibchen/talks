@@ -293,12 +293,9 @@ ever.
 
 #### Java 
 * [g ∘ f patterns](https://www.youtube.com/watch?v=lZG74WbnhoE) [00:50:44] by **Mario Fusco** (2017)
-* [Parallel and Asynchronous Programming with Streams and CompletableFuture](https://www.youtube.com/watch?v=IwJ-SCfXoAU) [02:34:29] by **Venkat Subramaniam** (2017)
 * [A JVM does that???](https://www.youtube.com/watch?v=-vizTDSz8NU) [00:51:58] by **Cliff Click** (2016)
-* [Optional - The Mother of All Bikesheds](https://www.youtube.com/watch?v=Ej0sss6cq14) [00:58:42] by **Stuart Marks** (2016)
 <br>
 
-* [4 JVM Web Frameworks in 40 Minutes](https://www.youtube.com/watch?v=nyz0AVIOTkI) [00:58:38] by **Joe Kutner** (this is actually for a few JVM languages, not only Java) (2015)
 * [New Concurrency Models on the JVM: Fibres, Verticles, Agents and Actors](https://www.youtube.com/watch?v=EMv_8dxSqdE) [01:03:01] by **Lutz Hühnken** (2015)
 <br>
 
