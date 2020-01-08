@@ -358,7 +358,6 @@ ever.
 
 * [All Your Ducks In A Row: Data Structures in the Std Lib and Beyond](https://www.youtube.com/watch?v=fYlnfvKVDoM) [00:37:40] by **Brandon Rhodes** (2014)
 * [Fast Python, Slow Python](https://www.youtube.com/watch?v=7eeEf_rAJds) [00:36:11] by **Alex Gaynor** (2014)
-* [Flask by Example](https://www.youtube.com/watch?v=FGrIyBDQLPg) [03:40:29] by **Miguel Grinberg** (2014)
 * [Generators: The Final Frontier](https://www.youtube.com/watch?v=D1twn9kLmYg) [03:50:55] by **David Beazley** (2014)
 * [Getting Hy on Python: How to implement a Lisp front-end to Python](https://www.youtube.com/watch?v=AmMaN1AokTI) [00:47:09] by **Paul Tagliamonte** (2014)
 * [Outlier Detection in Time Series Signals](https://www.youtube.com/watch?v=t4zEeujVht8) [00:36:30] by **Bugra Akyildiz** (2014)
@@ -652,9 +651,7 @@ ever.
 #### System Architecture
 * [The Salami Method for Cross Platform Development](https://www.youtube.com/watch?v=ZSpGNiUvXVI) [01:00:16] by **Adi Shavit** (2018)
 * [Mastering Chaos - A Netflix Guide to Microservice](https://www.youtube.com/watch?v=CZ3wIuvmHeM) [00:53:13] by **Josh Evans** (2017)
-* [12-Factor Apps and the HashiStack](https://www.youtube.com/watch?v=NVl9cIiPF80) [00:30:39] by **Kelsey Hightower** (2016)
 * [Runtime scheduling: theory and reality](https://www.youtube.com/watch?v=8g9fG7cApbc) [00:42:11] by **Eben Freeman** (2016)
-* [The Power Of UNIX](https://www.youtube.com/watch?v=7uwW20odwEk) [00:30:03] by **Dan North** (2015)
 * [Speed & Scale: How to get there](https://www.youtube.com/watch?v=BeNrVl2_nyI) [01:04:51] by **Adrian Cockcroft** (2014)
 * [Narcissistic Design](https://www.youtube.com/watch?v=LEZv-kQUSi4) [00:37:14] by **Stuart Halloway** (2013)
 * [Scalability at YouTube](https://youtu.be/G-lGCC4KKok?t=9m12s) [00:38:43] by **Mike Solomon** (long intro; starts at 9:12 minutes in) (2012)
