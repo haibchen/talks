@@ -123,7 +123,6 @@ ever.
 <br>
 
 * [Clojure core.async](http://www.infoq.com/presentations/clojure-core-async) [00:44:25] by **Rich Hickey** (2013)
-* [Clojure Data Science](https://www.youtube.com/watch?v=RVmY2lQ4DHE) [00:32:40] by **Edmund Jackson** (2013)
 * [Clojure Enemy of the State](https://www.youtube.com/watch?v=qe60zwUAOqE) [01:06:31] by **Alex Miller** (2013)
 * [Clojure in 10 Big Ideas](https://www.youtube.com/watch?v=noiGVQoyYHw) [00:30:48] by **Stu Halloway** (2013)
 * [Clojure Library Core.async for Asynchronous Programming](https://www.youtube.com/watch?v=AhxcGGeh5ho) [00:55:32] by **David Nolen** (2013)
@@ -496,17 +495,10 @@ ever.
 * [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson** (2015)
 
 #### Programming Language Design
-* [Gradual typing of Ruby at Scale](https://www.youtube.com/watch?v=uFFJyp8vXQI) [00:38:45] by **Dmytro Petrashko & Paul Tarjan** (2018)
-* [A Little Taste of Dependent Types](https://www.youtube.com/watch?v=VxINoKFm-S4) [00:38:35] by **David Christiansen** (2018)
-* [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o) [00:47:24] by **Ashley Williams** (2018)
-* [Proof Theory Impressionism: Blurring the Curry-Howard Line](https://www.youtube.com/watch?v=jrVPB-Ad5Gc) [00:35:07] by **Dan Pittman** (2018)
-* [Running With Scissors: Live Coding With Data](https://www.youtube.com/watch?v=Qx0-pViyIDU) [00:39:35] by **Stuart Halloway** (2018)
-* [Type-Driven Program Synthesis](https://www.youtube.com/watch?v=HnOix9TFy1A) [00:39:39] by **Nadia Polikarpova** (2018)
 * [Four Languages from Forty Years Ago](https://www.youtube.com/watch?v=0fpDlAEQio4) [01:01:45] by **Scott Wlaschin** (2018)
 * [Types, and why you should care](https://www.recurse.com/events/localhost-ron-minsky) [01:04:05] by **Ron Minsky** (2017)
 * [Into the Core - Squeezing Haskell into Nine Constructors](https://www.youtube.com/watch?v=uR_VzYxvbxg) [01:07:48] by **Simon Peyton Jones** (2016)
 * [Let's Build a Hygienic Macro Expander](https://www.youtube.com/watch?v=Or_yKiI3Ha4) [00:40:04] by **Matthew Flatt** (2016)
-* [Sketch-n-Sketch: Interactive SVG Programming with Direct Manipulation](https://www.youtube.com/watch?v=YuGVC8VqXz0) [00:40:17] by **Ravi Chugh** (2016)
 * [Make Your Own Programming Language!](https://www.youtube.com/watch?v=DE18fHyZ0GI) [00:26:07] by **Nick Heiner** (2016)
 * [I See What You Mean](https://www.youtube.com/watch?v=R2Aa4PivG0g) [00:52:28] by **Peter Alvaro** (2015)
 * [Everything old is new again: Quoted Domain-Specific Languages](https://www.youtube.com/watch?v=FiflFiZ6pPI) [00:39:06] by **Philip Wadler** (2015)
@@ -518,7 +510,6 @@ ever.
 * [Papers We Love: Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs) [01:16:39] by **John Myles White** (2015)
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) [00:43:46] by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it) (2015)
 * [Implement an Esoteric Programming Language for Fun](https://www.youtube.com/watch?v=oCPT3L33848) [00:22:16] by **Arne Martin Aurlien** (2014)
-* [The Sociology of Programming Languages](https://www.youtube.com/watch?v=M4Gsl8sVgdQ) [00:42:11] by **Leo Meyerovich** (2014)
 * [Transducers](https://www.youtube.com/watch?v=6mTbuzafcII) [00:45:00] by **Rich Hickey** (2014)
 * [A Dinosaur's Thoughts on Programming Language Evolution](https://www.youtube.com/watch?v=Z9OYc1YYLT4) [00:48:47] by **Matthew Flatt** (2013)
 * [Rust and Other Interesting Things](https://www.youtube.com/watch?v=2wZ1pCpJUIM) [00:37:06] by **Bryan Cantrill** (2018)
