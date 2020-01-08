@@ -299,7 +299,6 @@ ever.
 <br>
 
 * [4 JVM Web Frameworks in 40 Minutes](https://www.youtube.com/watch?v=nyz0AVIOTkI) [00:58:38] by **Joe Kutner** (this is actually for a few JVM languages, not only Java) (2015)
-* [A Few Ok Libraries](https://www.youtube.com/watch?v=WvyScM_S88c) [01:09:20] by **Jake Wharton** (2015)
 * [New Concurrency Models on the JVM: Fibres, Verticles, Agents and Actors](https://www.youtube.com/watch?v=EMv_8dxSqdE) [01:03:01] by **Lutz Hühnken** (2015)
 <br>
 
