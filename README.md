@@ -292,7 +292,6 @@ ever.
 * [Is Your REST API RESTful?](https://www.youtube.com/watch?v=pZYRC8IbCwk) [00:45:31] by **Miguel Grinberg** (2015)
 * [Keynote at PyCon Brasil 2015](https://www.youtube.com/watch?v=lYe8W04ERnY) [00:56:29] by **David Beazley** (about asyncio) (2015)
 * [Losing your Loops Fast Numerical Computing with NumPy](https://www.youtube.com/watch?v=EEUXKG97YRw) [00:30:31] by **Jake VanderPlas** (2015)
-* [Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0) [03:02:34] by **David Beazley** (2015)
 * [My Python's a little Rust-y](https://www.youtube.com/watch?v=3CwJ0MH-4MA) [00:29:18] by **Dan Callahan** (2015)
 * [Oh, Come On Who Needs Bytearrays](https://www.youtube.com/watch?v=z9Hmys8ojno) [00:44:24] by **Brandon Rhodes** (2015)
 * [Python Concurrency From the Ground Up: LIVE!](https://www.youtube.com/watch?v=MCs5OvhV9S4) [00:46:50] by **David Beazley** (2015)
