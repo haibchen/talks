@@ -43,11 +43,9 @@ ever.
     * [Elixir](#elixir)
     * [Erlang](#erlang)
     * [Go](#go)
-    * [Haskell](#haskell)
     * [Java](#java)
     * [Lisp](#lisp)
     * [Python](#python)
-    * [Rust](#rust)
 
 * [On theory](#on-theory)
     * [Compilers/Interpreters](#compilersinterpreters)
@@ -238,39 +236,6 @@ ever.
 * [Practical Go Programming](https://www.youtube.com/watch?v=2-pPAvqyluI) [00:59:20] by **Andrew Gerrand** (2011)
 
 
-#### Haskell
-* [Laws!](https://www.youtube.com/watch?v=VzNGF4V937o) [00:28:03] by **George Wilson** (2018)
-* [Linear Haskell: practical linearity in a higher-order polymorphic language](https://www.youtube.com/watch?v=t0mhvd3-60Y) [01:03:33] by **Simon Peyton Jones** (2018)
-* [Suggesting Valid Substitutions For Typed Holes](https://www.youtube.com/watch?v=pDgshr-oc14) [00:41:36] by **Matthías Páll Gissurarson** (2018)
-<br>
-
-* [Dependent Types in Haskell](https://www.youtube.com/watch?v=wNa3MMbhwS4) [00:38:41] by **Stephanie Weirich** (2017)
-* [Escape from the ivory tower: the Haskell journey](https://www.youtube.com/watch?v=re96UgMk6GQ) [01:04:15] by **Simon Peyton-Jones** (2017)
-* [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk) [00:36:12] by **Amar Shah** (2016)
-* [What are Types for, or are they only Against?](https://www.youtube.com/watch?v=3U3lV5VPmOU) [01:03:37] by **Conor McBride** (2016)
-<br>
-
-* [Enigmatic Haskell, Haskellish Enigma](https://www.youtube.com/watch?v=9-u2n4GgcVw) [00:59:41] by **Rishiyur S. Nikhil** (2015)
-* [Framing the Discussion with EDSLs](https://www.youtube.com/watch?v=_KioQRICpmo) [01:41:41] by **Anthony Cowley** (There is a repository containing the slides and code [here](https://github.com/acowley/BostonHaskell2015)) (2015)
-* [Next Level MTL](https://www.youtube.com/watch?v=GZPup5Iuaqw) [00:44:36] by **George Wilson** (2015)
-* [Pure Type Systems](https://www.youtube.com/watch?v=ZGqKsalJi4s) [01:17:01] by **Cody Roux** (2015)
-* [The Road to Running Haskell at Facebook Scale](https://www.youtube.com/watch?v=sl2zo7tzrO8) [00:43:36] by **Jon Coens** (2015)
-<br>
-
-* [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) [00:26:11] by **Andrew Rademacher** (for Beginners) (2014)
-* [Getting a Quick Fix on Comonads](https://www.youtube.com/watch?v=F7F-BzOB670) [00:58:33] by **Kenneth Foner** (for best watching experience, watch it after the optimization talk by dan doel) (2014)
-* [Haste: Full-Stack Haskell for Non-PhD Candidates](https://www.youtube.com/watch?v=3v03NFcyvzc) [00:40:50] by **Erin Swenson-Healey and James Cooper** (the sound quality is really bad in the first 5:30 min or so, but it gets better, promise) (2014)
-* [How Haskell is Changing my Brain](https://vimeo.com/96639840) [00:48:32] by **Alissa Pajer** (2014)
-* [Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY) [01:09:40] by **Dan Doel** (2014)
-* [Safe Zero-Cost Coercions for Haskell](https://www.youtube.com/watch?v=xFy_8n_HdI4) [00:26:01] by **Richard A. Eisenberg** (2014)
-* [Writing a game in Haskell](https://www.youtube.com/watch?v=1MNTerD8IuI) [00:29:37] by **Elise Huard** (2014)
-<br>
-
-* [Lenses, Folds, and Traversals](https://www.youtube.com/watch?v=cefnmjtAolY) [01:54:46] by **Edward Kmett** (2012)
-* [The Algebra In Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) [01:04:35] by **Chris Taylor** (2012)
-* [Haskell Amuse-Bouche](https://www.youtube.com/watch?v=b9FagOVqxmI) [00:57:13] by **Mark Lentczner** (the audio quality is scarily bad) (2011)
-* [Data Parallel Haskell](https://www.youtube.com/watch?v=NWSZ4c9yqW8) [01:19:56] by **Simon Peyton Jones** (2010)
-* [A History of Haskell: being lazy with class](https://www.youtube.com/watch?v=06x8Wf2r2Mc) [00:56:46] by **Simon Peyton Jones** (2007)
 
 
 #### Java 
@@ -347,8 +312,6 @@ ever.
 * [Up and Down the Python Data and Web Visualization Stack](https://www.youtube.com/watch?v=kmy-sfm3cC8) [00:39:18] by **Rob Story** (2014)
 <br>
 
-* [Does your stuff scale?](https://www.youtube.com/watch?v=LguTqd6CtOw) [00:24:31] by **Steven Holmes** (2013)
-* [Introduction to SQLAlchemy](https://youtu.be/woKYyhLCcnU) [02:48:48] by **Mike Bayer** (2013)
 * [Learn Python Through Public Data Hacking](https://www.youtube.com/watch?v=RrPZza_vZ3w) [02:38:22] by **David Beazley** (2013)
 * [Loop like a native: while, for, iterators, generators](https://www.youtube.com/watch?v=EnSu9hHGq5o) [00:29:15] by **Ned Batchelder** (2013)
 * [Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI) [03:24:00] by **David Beazley** (2013)
@@ -366,30 +329,6 @@ ever.
 * [pyREtic: Reversing Obfuscated Python Bytecode Live Python Objects](https://www.youtube.com/playlist?list=PLD9pG_bivfcZs5VwdnSF40lxH44eInxUk) [01:00:24] by **Rich Smith** (2010)
 * [Slightly Advanced Python: Some Python Internals](https://www.youtube.com/watch?v=23s9Wc3aWGY) [00:59:36] by **Alex Martelli** (2008)
 
-
-#### Rust
-* [Rust at speed - building a fast concurrent database](https://www.youtube.com/watch?v=s19G6n0UjsM) [00:52:53] by **Jon Gjengset** (2018)
-* [Using Rust For Game Development](https://www.youtube.com/watch?v=aKLntZcp27M) [00:42:29] by **Catherine West** (2018)
-<br>
-
-* [Building Rocket](https://www.youtube.com/watch?v=t_FUZ34ahBE) [00:33:15] by **Sergio Benitez** (2017)
-* [How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!](https://www.youtube.com/watch?v=GCsxYAxw3JQ) [00:37:33] by **Ashley Williams** (2017)
-* [Shipping a Solid Rust Crate](https://www.youtube.com/watch?v=JpkjOkiu-fA) [00:22:08] by **Michael Gattozzi** (2017)
-<br>
-
-* [Back to the Futures](https://www.youtube.com/watch?v=bcrzfivXpc4) [00:29:53] by **Alex Crichton** (2016)
-* [In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdM) [00:45:01] by **Alex Burkhardt** (2016)
-* [RFC: In Order to Form a More Perfect \`union\`](https://www.youtube.com/watch?v=U8Gl3RTXf88) [00:28:21] by **Josh Triplet** (2016)
-* [Rusty Runtimes](https://www.youtube.com/watch?v=U3upi-y2pCk) [00:35:30] by **Aditya Siram** (2016)
-* [Rust: Safe and Scalable Systems Programming](https://www.youtube.com/watch?v=GbWECt0M3CI) [01:00:09] by **Alex Crichton** (2016)
-* [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) [00:58:41] by **Steve Klabnik** (2016)
-* [The /r/playrust Classifier](https://www.youtube.com/watch?v=lY10kTcM8ek) [00:30:34] by **Suchin Gururangan & Colin O'Brien** (2016)
-* [Using Generics Effectively](https://www.youtube.com/watch?v=erJdCIti_O8) [00:23:42] by **Without Boats** (2016)
-<br>
-
-* [What Rust can teach us about Ruby](https://www.youtube.com/watch?v=Jbfyhx8t-F8) [00:34:07] by **Steve Klabnik** (2015)
-* [Cap'n Proto and Rust: Type Systems for Sharing](https://www.youtube.com/watch?v=A65w-qoyTYg) [00:40:47] by **David Renshaw** (2014)
-* [Concurrency in Rust](https://www.youtube.com/watch?v=oAZ7F7bqT-o) [00:31:24] by **Alex Crichton** (2014)
 
 
 
