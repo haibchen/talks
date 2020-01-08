@@ -590,7 +590,6 @@ ever.
 #### Software Development
 * [OOP Is Dead, Long Live Data-oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU) [01:00:45] by **Stoyan Nikolov** (2018)
 * [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) [01:03:53] by **Ian Cooper** (2017)
-* [You're Insufficiently Persuasive](https://www.youtube.com/watch?v=VzWLGMtXflg) [00:35:37] by **Sandi Metz** (2017)
 * [Requests Under The Hood](https://www.youtube.com/watch?v=ptbCIvve6-k) [00:31:37] by **Cory Benfield** (2017)
 * [Things that Matter](https://www.youtube.com/watch?v=RT46MpK39rQ) [01:06:36] by **Scott Meyers** (2017)
 * [The programmer](https://www.youtube.com/watch?v=sVTs4_1ts_c) [01:03:10] by **Kevlin Henney** (2016)
@@ -600,11 +599,9 @@ ever.
 * [Boundaries](https://youtu.be/eOYal8elnZk) [00:30:19] by **Gary Bernhardt** (2015)
 * [Scalable is Awesome, Literally!](https://www.youtube.com/watch?v=iquZl-CUR_U) [00:43:48] by **Garrett Smith** (2015)
 * [Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg) [00:17:17] by **Alan Shreve** (2015)
-* [Microservices @ Spotify](https://www.youtube.com/watch?v=7LGPeBgNFuU) [00:49:07] by **Kevin Goldsmith** (2015)
 * [Apparatus: A Hybrid Graphics Editor / Programming Environment](https://www.youtube.com/watch?v=i3Xack9ufYk) [00:37:56] by **Toby Schachman** (2015)
 * [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w) [00:55:36] by **Erik Meijer** (2015)
 * [Big Code: Developer Infrastructure at Facebook's Scale](https://www.youtube.com/watch?v=X0VH78ye4yY) [00:46:21] by **Bryan O'Sullivan, Christian Legnitto & Katie Coons** (2015)
-* [Demystifying Docker](https://www.youtube.com/watch?v=GVVtR_hrdKI) [00:29:53] by **Andrew T. Baker** (2015)
 * [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) [00:38:46] by **Sandi Metz** (2014)
 * [Kicking the Complexity Habit](https://www.youtube.com/watch?v=XqgwHXsQA1g) [00:55:30] by **Dan North** (2014)
 * [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0) [00:46:39] by **Erik Meijer** (2014)
@@ -618,7 +615,6 @@ ever.
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) [00:32:56] by **Bret Victor** (2013)
 * [The Language of the System](https://www.youtube.com/watch?v=ROor6_NGIWU) [01:02:50] by **Rich Hickey** (2013)
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) [01:06:44] by **Thomas Figg** (2013)
-* [A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world) [00:21:20] by **Gary Bernhardt** (2012)
 * [Inventing on Principle](https://vimeo.com/36579366) [00:54:20] by **Bret Victor** (2012)
 * [The Value Of Values](http://www.infoq.com/presentations/Value-Values) [00:58:53] by **Rich Hickey** (2012)
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) [00:39:49] by **Rich Hickey** (2012)
@@ -634,7 +630,6 @@ ever.
 * [Mastering Chaos - A Netflix Guide to Microservice](https://www.youtube.com/watch?v=CZ3wIuvmHeM) [00:53:13] by **Josh Evans** (2017)
 * [Runtime scheduling: theory and reality](https://www.youtube.com/watch?v=8g9fG7cApbc) [00:42:11] by **Eben Freeman** (2016)
 * [Speed & Scale: How to get there](https://www.youtube.com/watch?v=BeNrVl2_nyI) [01:04:51] by **Adrian Cockcroft** (2014)
-* [Narcissistic Design](https://www.youtube.com/watch?v=LEZv-kQUSi4) [00:37:14] by **Stuart Halloway** (2013)
 * [Scalability at YouTube](https://youtu.be/G-lGCC4KKok?t=9m12s) [00:38:43] by **Mike Solomon** (long intro; starts at 9:12 minutes in) (2012)
 
 
@@ -644,7 +639,6 @@ ever.
 * [Upgrading the Web](https://www.youtube.com/watch?v=6UTWAEJlhww) [00:41:19] by **Douglas Crockford** (2015)
 * [How I learned to Code by Making 180 websites in 180 days](https://www.youtube.com/watch?v=QaSbL4sRff8) [00:22:03] by **Jennifer De Walt** (2015)
 * [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) [00:22:06] by **David Nolen** (2014)
-* [Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc) [00:09:18] by **Jafar Husain** (very concise and dense) (2014)
 * [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham** (2013)
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) [00:27:26] by **Chris Williams** (2013)
 * [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** (2013)
@@ -659,5 +653,4 @@ ever.
 * [Software Development Lessons from the Apollo Program](https://www.youtube.com/watch?v=hrsT9wmPVoo) [00:29:59] by **Julian Simioni** (2014)
 * [States and Nomads: Handling Software Complexity](https://www.youtube.com/watch?v=yP2ApYFtLu0) [00:23:31] by **Zach Tellman** (2014)
 * [It's not what you read, it's what you ignore](https://www.youtube.com/watch?v=IWPgUn8tL8s) [01:01:52] by **Scott Hanselman** (2012)
-* [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt** (2012)
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds** (2007) [A]
