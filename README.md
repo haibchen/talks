@@ -62,7 +62,7 @@ ever.
     * [Erlang](#erlang)
     * [Go](#go)
     * [Haskell](#haskell)
-    * [Java & Android](#java--android)
+    * [Java](#java)
     * [Lisp](#lisp)
     * [Python](#python)
     * [Rust](#rust)
@@ -304,11 +304,8 @@ ever.
 <br>
 
 * [Functional Reactive Programming with RxJava](https://www.youtube.com/watch?v=_t06LRX0DV0) [00:49:27] by **Ben Christensen** (2014)
-* [Java 8 Lambda Expressions & Streams](https://www.youtube.com/watch?v=8pDm_kH4YKY) [01:43:53] by **Adib Saikali** (2014)
-* [Java 8 Language Capabilities, What's in it for you?](https://www.youtube.com/watch?v=j9nj5dTo54Q) [01:25:28] by **Venkat Subramaniam** (2014)
 * [Living in the Matrix with Bytecode Manipulation](https://www.youtube.com/watch?v=39kdr1mNZ_s) [00:55:01] by **Ashley Puls** (2014)
 * [Ludicrous Speed: Designing For Performance on the JVM](https://www.youtube.com/watch?v=X1rWgshr3PY) [00:39:54] by **Cliff Moon** (2014)
-* [Nashorn: implementing a dynamic language runtime on JVM in 2014](https://www.youtube.com/watch?v=KKaHkkpdHxg) [00::44:32] by **Attila Szegedi** (2014)
 * [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU) [01:50:29] by **Tim Williams** (2014)
 <br>
 
