@@ -417,7 +417,6 @@ ever.
 * [Denotational Design: From Meanings To Programs](https://www.youtube.com/watch?v=bmKYiUOEo2A) [02:20:35] by **Conal Elliott** (2015)
 * [A More Elegant Specification for FRP](https://www.youtube.com/watch?v=teRC_Lf61Gw) [00:29:54] by **Conal Elliott** (2015)
 * [The Essence and Origins of Functional Reactive Programming](https://www.youtube.com/watch?v=j3Q32brCUAI) [00:59:24] by **Conal Elliott** (2015)
-* [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) [00:36:00] by **Carin Meier** (2015)
 * [Functional Programming Design Patterns](https://www.youtube.com/watch?v=E8I19uA-wGY) [01:05:43] by **Scott Wlaschin** (2015)
 * [Papers We Love: Composable and Compilable Macros](https://www.youtube.com/watch?v=pK2E63mhRxI) [00:54:49] by **Sam Tobin-Hochstadt** (2015)
 * [Railway oriented programming: Error handling in functional languages](https://vimeo.com/113707214) by **Scott Wlaschin** (2014)
@@ -461,25 +460,12 @@ ever.
 
 
 #### On the Industry/Community
-* [The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA) [00:47:15] by **Evan Czaplicki** (2018)
-* [Invited Talk](https://www.youtube.com/watch?v=dCuZkaaou0Q) [01:07:21] by **Guy Steele** (2017) (on notation) [A]
 * [Patterns Failed. Why? Should We Care?](https://www.deconstructconf.com/2017/brian-marick-patterns-failed-why-should-we-care) [00:26:40] by **Brian Marick** (2017)
-* [Code Review, Forwards and Back](https://www.youtube.com/watch?v=9qYR0NqsDcA) [00:22:33] by **Sumana Harihareswara & Jason Owen** (2017)
 * [On Abstraction](https://www.youtube.com/watch?v=x9pxbnFC4aQ) [01:00:02] by **Zach Tellman** (2017)
-* [Crossing the River by Feeling the Stones](https://www.youtube.com/watch?v=ek0aWj_rWYs) [00:55:30] by **Simon Wardley** (2017)
-* [Idée Fixe](https://www.youtube.com/watch?v=lzXHMy4ewtM) [00:39:36] by **David Nolen** (2017)
-* [Humanizing among coders](https://www.youtube.com/watch?v=npyB5Oz-v-I) [00:41:15] by **Ana Balica** (2016)
 * [“Am I Senior Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin** (2016) [A]
-* [It's Simple](https://www.youtube.com/watch?v=a8Re9Cvv6nU) [00:37:35] by **Adrian Cockcroft** (2016)
-* [Software, Faster](https://www.youtube.com/watch?v=USc-yLHXNUg) [00:54:19] by **Dan North** (2016)
 * [How to become a Data Scientist in 6 months - A hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc) [00:56:24] by **Tetiana Ivanova** (2016) [A]
-* [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w) [00:31:07] by **Andrew Godwin** (2015) [A]
-* [PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) [00:35:51] by **Jacob Kaplan-Moss** (2015)
-* [You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo) [00:33:02] by **Nickolas Means** (2014) [A]
-* [Being Human](https://www.youtube.com/watch?v=LlO2_GecWo8) [00:19:45] by **Brian J. Brennan** (not technical, but very important) (2014) [A]
 * [Career Advice for Programmers](https://www.youtube.com/watch?v=LlAn452X4Lc) [00:54:18] by **Trisha Gee** (2013)
 * [Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA) [01:03:35] by **Christopher Alexander** (2013)
-* [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) [01:07:26] by **Alan Kay** (2012)
 
 #### Operating Systems
 * [Python, Linkers, and Virtual Memory](https://www.youtube.com/watch?v=twQKAoq2OPE) [00:31:15] by **Brandon Rhodes** (2012)
