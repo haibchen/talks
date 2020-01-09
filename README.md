@@ -64,9 +64,6 @@ ever.
     * [Programming Language Design](#programming-language-design)
     * [Software Development](#software-development)
     * [System Architecture](#system-architecture)
-    * [Theoretical Computer Science](#theoretical-computer-science)
-    * [Type Theory](#type-theory)
-    * [Web Development](#web-development)
 * [Miscellaneous](#miscellaneous)
 
 ### On Programming Languages
@@ -556,17 +553,6 @@ ever.
 * [Speed & Scale: How to get there](https://www.youtube.com/watch?v=BeNrVl2_nyI) [01:04:51] by **Adrian Cockcroft** (2014)
 * [Scalability at YouTube](https://youtu.be/G-lGCC4KKok?t=9m12s) [00:38:43] by **Mike Solomon** (long intro; starts at 9:12 minutes in) (2012)
 
-
-#### Web Development
-* [Implementing and Using GraphQL at GitHub](https://www.youtube.com/watch?v=wPPFhcqGcvk) [00:38:55] by **Kyle Daigle & Dan Schafer** (2016)
-* [The Website Obesity Crisis](https://www.youtube.com/watch?v=iYpl0QVCr6U) [00:53:19] by **Maciej Ceglowski** (2015)
-* [Upgrading the Web](https://www.youtube.com/watch?v=6UTWAEJlhww) [00:41:19] by **Douglas Crockford** (2015)
-* [How I learned to Code by Making 180 websites in 180 days](https://www.youtube.com/watch?v=QaSbL4sRff8) [00:22:03] by **Jennifer De Walt** (2015)
-* [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) [00:22:06] by **David Nolen** (2014)
-* [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham** (2013)
-* [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) [00:27:26] by **Chris Williams** (2013)
-* [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** (2013)
-* [Go To There and Back Again](http://vimeo.com/78893726) [00:49:06] by **Douglas Crockford** (2013)
 
 ### Miscellaneous
 * [I Don’t Have Time For This](https://www.deconstructconf.com/2017/aaron-patterson-i-dont-have-time-for-this) [00:31:22] by **Aaron Patterson** (2017)
