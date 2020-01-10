@@ -531,7 +531,6 @@ ever.
 
 
 ### Miscellaneous
-* [I Don’t Have Time For This](https://www.deconstructconf.com/2017/aaron-patterson-i-dont-have-time-for-this) [00:31:22] by **Aaron Patterson** (2017)
 * [Juggling Patterns and Programs](https://www.youtube.com/watch?v=TqG176T69VM) [00:48:50] by **Steve Miner** (2016)
 * [A Brief History of Time](https://www.youtube.com/watch?v=WoUn2XQvGDw) [00:45:17] by **Fred Hebert** (2016)
 * [Stop Treading Water: Learning to Learn](https://www.youtube.com/watch?v=j0XmixCsWjs) [00:40:58] by **Edward Kmett** (2014)
