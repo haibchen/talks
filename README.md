@@ -96,7 +96,6 @@ ever.
 * [Developing ClojureScript With Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E) [00:45:30] by **Bruce Hauman** (2015)
 * [Domain Specific Type Systems](https://www.youtube.com/watch?v=gY0H0KVc_h0) [00:40:05] by **Nathan Sorenson** (2015)
 * [From REST to CQRS with Clojure, Kafka, & Datomic](https://www.youtube.com/watch?v=qDNPQo9UmJA) [00:44:24] by **Bobby Calderwood** (2015)
-* [Game Development Development](https://www.youtube.com/watch?v=ajX09xQ_UEg) [00:35:09] by **Michael Nygard & Ragnar Svensson** (2015)
 * [Genetic Programming in Clojure](https://www.youtube.com/watch?v=HWMJdO4klIE) [00:40:07] by **Lee Spector** (2015)
 * [Hoplon and Javelin, WebDev Alternative Reality](https://www.youtube.com/watch?v=UoZyyo2Bwr8) [00:22:07] by **Micha Niskin** (2015)
 * [Om Next](https://www.youtube.com/watch?v=MDZpSIngwm4) [00:39:22] by **David Nolen** (2015)
@@ -319,8 +318,6 @@ ever.
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) [00:27:29] by **Jack Diederich** (2012)
 * [Understanding the Python GIL](https://www.youtube.com/watch?v=Obt-vMVdM8s) [00:46:10] by **David Beazley** (2012)
 <br>
-
-* [pyREtic: Reversing Obfuscated Python Bytecode Live Python Objects](https://www.youtube.com/playlist?list=PLD9pG_bivfcZs5VwdnSF40lxH44eInxUk) [01:00:24] by **Rich Smith** (2010)
 * [Slightly Advanced Python: Some Python Internals](https://www.youtube.com/watch?v=23s9Wc3aWGY) [00:59:36] by **Alex Martelli** (2008)
 
 
@@ -465,7 +462,6 @@ ever.
 * [“Am I Senior Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin** (2016) [A]
 * [How to become a Data Scientist in 6 months - A hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc) [00:56:24] by **Tetiana Ivanova** (2016) [A]
 * [Career Advice for Programmers](https://www.youtube.com/watch?v=LlAn452X4Lc) [00:54:18] by **Trisha Gee** (2013)
-* [Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA) [01:03:35] by **Christopher Alexander** (2013)
 
 #### Operating Systems
 * [Python, Linkers, and Virtual Memory](https://www.youtube.com/watch?v=twQKAoq2OPE) [00:31:15] by **Brandon Rhodes** (2012)
@@ -500,7 +496,6 @@ ever.
 #### Software Development
 * [OOP Is Dead, Long Live Data-oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU) [01:00:45] by **Stoyan Nikolov** (2018)
 * [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) [01:03:53] by **Ian Cooper** (2017)
-* [Requests Under The Hood](https://www.youtube.com/watch?v=ptbCIvve6-k) [00:31:37] by **Cory Benfield** (2017)
 * [Things that Matter](https://www.youtube.com/watch?v=RT46MpK39rQ) [01:06:36] by **Scott Meyers** (2017)
 * [The programmer](https://www.youtube.com/watch?v=sVTs4_1ts_c) [01:03:10] by **Kevlin Henney** (2016)
 * [Small Is Beautiful](https://www.youtube.com/watch?v=B3b4tremI5o) [01:07:02] by **Kevlin Henney** (2016)
