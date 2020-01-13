@@ -507,19 +507,19 @@ ever.
 * [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) [00:38:46] by **Sandi Metz** (2014)
 * [Kicking the Complexity Habit](https://www.youtube.com/watch?v=XqgwHXsQA1g) [00:55:30] by **Dan North** (2014)
 * [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0) [00:46:39] by **Erik Meijer** (2014)
-* [The S.O.L.I.D. Principles of Agile OO Design](https://www.youtube.com/watch?v=QHnLmvDxGTY) [01:23:35] by **Robert C. Martin** (way more interesting than it sounds) (2014)
+* [The S.O.L.I.D. Principles of OO Design](https://www.youtube.com/watch?v=QHnLmvDxGTY) [01:23:35] by **Robert C. Martin** (way more interesting than it sounds) (2014)
 * [CPU Caches and Why You care](https://vimeo.com/97337258) [01:01:55] by **Scott Meyers** (written in C++, reasonable for almost every software developer) (2014)
 * [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8) [00:58:42] by **Scott Meyers** (2014)
 * [Whence Complexity?](https://www.youtube.com/watch?v=l_tULSeO9yg) [00:55:32] by **Michael Nygard** (2013)
 * [The Not-So-Big Software Design](https://www.youtube.com/watch?v=arsK-CN5YDg) [00:47:31] by **Reginald Braithwaite** (2013)
+* [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) [01:06:38] by **Robert C. Martin** (2011)
+
 * [The Language of the System](https://www.youtube.com/watch?v=ROor6_NGIWU) [01:02:50] by **Rich Hickey** (2013)
 * [The Value Of Values](http://www.infoq.com/presentations/Value-Values) [00:58:53] by **Rich Hickey** (2012)
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) [00:39:49] by **Rich Hickey** (2012)
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) [00:36:54] by **Rich Hickey** (Simple Made Easy revisited) (2012)
-* [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) [01:06:38] by **Robert C. Martin** (2011)
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) [01:01:26] by **Rich Hickey** (2011)
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) [01:10:04] by **Rich Hickey** (2009)
-* [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) [00:47:11] by **Sandi Metz** (2009)
 
 #### System Architecture
 * [Mastering Chaos - A Netflix Guide to Microservice](https://www.youtube.com/watch?v=CZ3wIuvmHeM) [00:53:13] by **Josh Evans** (2017)
