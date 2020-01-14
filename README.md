@@ -494,6 +494,7 @@ ever.
 
 
 #### Software Development
+* [Design, Composition and Performance] (https://www.infoq.com/presentations/Design-Composition-Performance/) by Rich Hickey
 * [OOP Is Dead, Long Live Data-oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU) [01:00:45] by **Stoyan Nikolov** (2018)
 * [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) [01:03:53] by **Ian Cooper** (2017)
 * [Things that Matter](https://www.youtube.com/watch?v=RT46MpK39rQ) [01:06:36] by **Scott Meyers** (2017)
